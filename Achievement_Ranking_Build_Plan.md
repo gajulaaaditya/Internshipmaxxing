@@ -1,0 +1,18 @@
+# Build plan for a ranking system that learns from your judgment
+
+Build a ranking layer alongside the current résumé workflow. It will rank your achievements for a specific job and employer, explain its choices, and learn from the reasons you give when you move something up or down. Your `main.tex` stays the starting résumé, with at most one recommended swap when the ranking shows a clear improvement.
+
+## Scope
+
+This phase covers contextual ranking, a feedback interview, and a way to test whether your feedback improves later recommendations.
+
+## Action items
+
+- [ ] **Define the contexts that affect rank.** Start with software engineering, applied AI/ML, data and analytics, quant, and research. Add employer context based on the posting and team’s work, such as guest operations or financial research. Use a company-specific preference only when the posting or your firsthand knowledge supports it.
+- [ ] **Rank each achievement on two dimensions.** Score how strong the achievement is on its own using ownership, scope, results, and evidence. Separately score how well it fits the role and employer. Use the achievement inventory IDs to link each score to its source and explain what drove the rank. [Achievement inventory](Aaditya_Gajula_Achievement_Inventory.json)
+- [ ] **Calibrate with real postings and small comparisons.** Start with a few jobs you would apply to, including Princess Cruises. Show two plausible achievements at a time and ask which you would put higher for that posting. Allow ties and skipped comparisons. Prioritize close calls and decisions that could actually change the résumé.
+- [ ] **Ask why every time an override is unexplained.** If you raise or lower an achievement and the existing evidence and feedback don’t explain the change, ask one focused question about that comparison. For example, “You put Borrower Credit Risk Analysis above FeedBack for Princess Cruises. Is hands-on SQL the stronger hiring signal for this team, or is there something about your contribution that the bank misses?” Use your choice for that draft if you skip the question. Broader learning waits for a reason.
+- [ ] **Save what you taught the system and where it applies.** Store the comparison, your reason, and its scope in a local feedback log. Stronger personal ownership could raise an achievement across several job types. A preference for SQL validation over conversational AI might apply only to analytics-heavy teams. When the scope is unclear, ask before applying the lesson elsewhere. Let you correct or undo a learned preference.
+- [ ] **Connect the ranking to the one-swap workflow.** Show the strongest candidate, which existing entry it would replace, and what evidence the résumé would gain or lose. Keep the baseline when the gain is small or the swap would remove unique evidence for a required qualification. Include any past feedback that influenced the recommendation. [Current workflow](README.md)
+- [ ] **Test whether the system is learning the right lessons.** Replay postings you’ve already ranked, then test on postings you haven’t used for calibration. Check whether the system agrees more often with your choices, preserves relevant evidence, and asks why when a new override is unexplained. Include cases where the same achievement should rank differently for two employers.
+- [ ] **Run it in recommendation mode first.** Review the proposed swaps before they affect drafts. Track which recommendations you accept and, over time, which submitted versions lead to interviews. Use interview results as a secondary signal alongside your judgment, accounting for differences such as role family, referrals, and posting age.

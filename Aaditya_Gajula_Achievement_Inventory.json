@@ -1,0 +1,1041 @@
+{
+  "as_of": "2026-11-19",
+  "achievements": [
+    {
+      "id": "A01",
+      "category": "Awards",
+      "title": "FIU Academic Excellence Scholarship",
+      "date": "2025-08-19",
+      "status": "Verified record",
+      "resume_wording": "Awarded the FIU Global First Year Academic Excellence Scholarship, a one-time $5,000 program waiver.",
+      "metrics": "$5,000 one-time waiver",
+      "sources": "S07 S08",
+      "confirmation_needed": "Award and signed return supported; final credit posting not checked.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "A02",
+      "category": "Awards",
+      "title": "Gator Quant Hacks — MLH Best Use of Solana",
+      "date": "2026-10",
+      "status": "Verified public result",
+      "resume_wording": "Won MLH Best Use of Solana at Gator Quant Hacks 2026 as a member of the BackFill team.",
+      "metrics": "Team award; Ledger Nano S Plus prize label",
+      "sources": "S23",
+      "confirmation_needed": "Exact event dates beyond October 4 submission not independently checked. Do not call overall first place.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "A03",
+      "category": "Awards",
+      "title": "AIS xTech Challenge — second place",
+      "date": "2026-10",
+      "status": "User-reported",
+      "resume_wording": "Placed second at FIU’s AIS xTech Challenge with PharmaBeacon, alongside Sebastian Luscher and Lenish Pandey.",
+      "metrics": "Second place, team of three",
+      "sources": "S25 S26 S04 S27",
+      "confirmation_needed": "Organizer result or certificate still needed; vague “won” post wording does not establish first place.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "A04",
+      "category": "Competition progression",
+      "title": "AIS national competition qualification",
+      "date": "2026; future event unknown",
+      "status": "Needs confirmation",
+      "resume_wording": "Qualified to represent FIU at the national AIS competition with PharmaBeacon.",
+      "metrics": "Qualification claim only",
+      "sources": "S20",
+      "confirmation_needed": "Appears in prior assistant summary, not direct organizer evidence or explicit user confirmation. Hold this bullet.",
+      "resume_use": "Hold",
+      "parent": "A03"
+    },
+    {
+      "id": "P01",
+      "category": "Programs",
+      "title": "Break Through Tech AI Program acceptance",
+      "date": "Accepted 2026-11-16; Winter/Spring 2027",
+      "status": "Verified record",
+      "resume_wording": "Selected for Break Through Tech’s Winter/Spring 2027 AI Program.",
+      "metrics": "Acceptance; user-pasted enrollment confirmation",
+      "sources": "S18 S19",
+      "confirmation_needed": "Future participation. Do not claim program completion, Cornell certificate already earned, stipend, or guaranteed internship.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "P02",
+      "category": "Programs",
+      "title": "ATOM Pink Tank cohort",
+      "date": "2026–2027",
+      "status": "User-reported",
+      "resume_wording": "Selected for the ATOM Pink Tank 2026–2027 cohort.",
+      "metrics": "Cohort selection",
+      "sources": "S20",
+      "confirmation_needed": "Obtain acceptance notice, exact institution/program naming, dates and role.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "P03",
+      "category": "Programs",
+      "title": "ShellHacks acceptance and participation",
+      "date": "2026-09-25 to 2026-09-27",
+      "status": "Verified participation",
+      "resume_wording": "Participated in ShellHacks 2026 and co-developed GridLock for the Sperry Tech challenge.",
+      "metrics": "Acceptance + public project submission",
+      "sources": "S46 S33",
+      "confirmation_needed": "No ShellHacks award found; acceptance and participation are not two independent prizes.",
+      "resume_use": "Optional",
+      "parent": "T08"
+    },
+    {
+      "id": "E01",
+      "category": "Admissions",
+      "title": "Florida International University",
+      "date": "Offer 2025-04-01; attending since 2025-08",
+      "status": "Verified record",
+      "resume_wording": "Pursuing a bachelor’s degree at Florida International University, with an expected graduation of December 2028.",
+      "metrics": "Initial Spring 2026 CS offer; subsequent G1Y pathway; actual Fall 2025 record",
+      "sources": "S13 S14 S01 S03",
+      "confirmation_needed": "Latest user-confirmed degree wording: BS in Artificial Intelligence and Data Science; record plan says Data Science and Artificial Intelligence. Confirm exact diploma title. Expected December 2028 supersedes May 2028/2029 drafts.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "E02",
+      "category": "Admissions",
+      "title": "University of Central Florida",
+      "date": "Offer 2025-05-13; Fall 2025",
+      "status": "Verified record",
+      "resume_wording": "Received admission to UCF for Fall 2025 with intended major Computer Science (BS).",
+      "metrics": "Admission offer",
+      "sources": "S15",
+      "confirmation_needed": "No enrollment inferred. Keep for personal bank; usually omit other university offers from a job résumé.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "E03",
+      "category": "Admissions",
+      "title": "Queen Mary University of London",
+      "date": "May 2025; accepted conditional offer 2025-05-28",
+      "status": "Verified record",
+      "resume_wording": "Received and accepted a conditional offer to study Computer Science at Queen Mary University of London.",
+      "metrics": "Conditional offer",
+      "sources": "S16 S17",
+      "confirmation_needed": "Acceptance of offer does not establish conditions met or attendance.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "E04",
+      "category": "Admissions",
+      "title": "Cardiff University",
+      "date": "2025-05-01",
+      "status": "Verified record",
+      "resume_wording": "Received a conditional Computer Science offer from Cardiff University.",
+      "metrics": "Conditional offer",
+      "sources": "S16",
+      "confirmation_needed": "Original Cardiff confirmation and UCAS summary read; no enrollment inferred.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "E05",
+      "category": "Admissions",
+      "title": "University of Liverpool",
+      "date": "By May 2025",
+      "status": "Verified record",
+      "resume_wording": "Received a conditional Computer Science offer from the University of Liverpool.",
+      "metrics": "Conditional offer",
+      "sources": "S16",
+      "confirmation_needed": "UCAS original conditional-offer message 19686fbc4b57929e read.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "E06",
+      "category": "Admissions",
+      "title": "Brunel University of London",
+      "date": "By May 2025",
+      "status": "Verified record",
+      "resume_wording": "Received a conditional Computer Science offer from Brunel University of London.",
+      "metrics": "Conditional offer",
+      "sources": "S16",
+      "confirmation_needed": "UCAS consolidated summary supports offer; individual letter not located.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "C01",
+      "category": "Academic results",
+      "title": "FIU GPA and earned credits",
+      "date": "As of 2026-11-17",
+      "status": "Verified record",
+      "resume_wording": "Earned 60 undergraduate credits, including 38 test credits, with a cumulative FIU GPA of 3.11.",
+      "metrics": "3.110 cumulative GPA; 60 earned = 38 test + 22 FIU course credits",
+      "sources": "S01",
+      "confirmation_needed": "Not 60 FIU classroom credits. Fall 2026 and Spring 2027 listed courses have no final grades yet. GPA is optional on résumé.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "C02",
+      "category": "Academic results",
+      "title": "Fall 2025 academic performance",
+      "date": "Fall 2025",
+      "status": "Verified record",
+      "resume_wording": "Earned a 3.57 term GPA in the first FIU semester, including an A in Calculus I.",
+      "metrics": "3.570 term GPA; 14 earned term credits",
+      "sources": "S01",
+      "confirmation_needed": "Term GPA, not current cumulative GPA. Do not infer Dean’s List.",
+      "resume_use": "Optional",
+      "parent": "C01"
+    },
+    {
+      "id": "C03",
+      "category": "Academic results",
+      "title": "Calculus I and other strong course results",
+      "date": "Fall 2025",
+      "status": "Verified record",
+      "resume_wording": "Earned an A in Calculus I and A− grades in American Government and Public Speaking.",
+      "metrics": "MAC 2311 A, 4 credits; POS 2041 A−; SPC 2608 A−; SLS 1501 A",
+      "sources": "S01",
+      "confirmation_needed": "Useful for tutoring/academic applications; these grades are part of C02, not separate academic awards.",
+      "resume_use": "Optional",
+      "parent": "C02"
+    },
+    {
+      "id": "C04",
+      "category": "Academic results",
+      "title": "IB Diploma Programme, JNIS",
+      "date": "Completed/reported May 2025",
+      "status": "Résumé claim",
+      "resume_wording": "Completed the IB Diploma Programme at Jamnabai Narsee International School, with a reported score of 30/45.",
+      "metrics": "Physics HL 5; Math AA HL 5; Economics HL 5; Chemistry SL 4; Spanish ab initio SL 5; English A Language & Literature SL 4; Math EE B; TOK C",
+      "sources": "S05 S06",
+      "confirmation_needed": "Final IB statement/diploma not located. Course grades total 28; reported total 30 is consistent with 2 core points, but remains self-reported. School attendance dates in older drafts should not be treated as full four-year IBDP attendance.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "C05",
+      "category": "Academic awards",
+      "title": "Cambridge ICE Distinction",
+      "date": "June 2023",
+      "status": "Verified record",
+      "resume_wording": "Earned Cambridge International Certificate of Education (ICE) with Distinction.",
+      "metrics": "ICE Distinction",
+      "sources": "S10",
+      "confirmation_needed": "Stored candidate-result printout is marked provisional; final certificate not checked.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "C06",
+      "category": "Academic results",
+      "title": "Cambridge IGCSE subject results",
+      "date": "June 2023",
+      "status": "Verified record",
+      "resume_wording": "Earned A*s in Physics and Business Studies, five As and one B in the June 2023 Cambridge IGCSE series.",
+      "metrics": "Physics A* (PUM 91); Business Studies A* (91); English A (81); Economics A (86); Chemistry A (87); French A (83); Additional Mathematics A (88); Biology B (79)",
+      "sources": "S10",
+      "confirmation_needed": "Numbers are PUMs, not raw exam percentages. Across March + June records: 2 A*, 6 A, 1 B in nine subjects.",
+      "resume_use": "Optional",
+      "parent": "C05"
+    },
+    {
+      "id": "C07",
+      "category": "Academic results",
+      "title": "IGCSE Mathematics",
+      "date": "March 2023",
+      "status": "Verified record",
+      "resume_wording": "Earned an A in Cambridge IGCSE Mathematics, with a percentage uniform mark of 88.",
+      "metrics": "0580 Mathematics A; PUM 88",
+      "sources": "S11",
+      "confirmation_needed": "Separate subject and examination series from Additional Mathematics.",
+      "resume_use": "Optional",
+      "parent": "C06"
+    },
+    {
+      "id": "C08",
+      "category": "Academic results",
+      "title": "SAT",
+      "date": "2024-08-24",
+      "status": "Verified record",
+      "resume_wording": "Scored 1400 on the SAT, including 780 in Math.",
+      "metrics": "Total 1400/1600; Math 780/800; Reading and Writing 620/800; report’s overall percentile 93, Math 98",
+      "sources": "S09",
+      "confirmation_needed": "Percentiles use the report’s stated historical cohort. Usually optional after substantial college experience.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "C09",
+      "category": "Academic results",
+      "title": "IELTS Academic",
+      "date": "Test 2024-08-18; report 2024-08-20",
+      "status": "Verified record",
+      "resume_wording": "Achieved IELTS Academic overall band 7.5 (CEFR C1).",
+      "metrics": "Overall 7.5; Listening 7.5; Reading 7.5; Writing 7.0; Speaking 7.0",
+      "sources": "S12",
+      "confirmation_needed": "Historical score. Report recommends reassessment after two years; do not present as currently valid language certification without checking requirements.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "C10",
+      "category": "Academic results",
+      "title": "Linear Algebra Exam 1 perfect score",
+      "date": "Fall 2026; exact date unknown",
+      "status": "Needs confirmation",
+      "resume_wording": "Scored 75/75 on FIU Linear Algebra Exam 1.",
+      "metrics": "75/75",
+      "sources": "S20",
+      "confirmation_needed": "Only prior assistant summary found. Need gradebook, marked exam or direct confirmation. Not a final course grade.",
+      "resume_use": "Hold",
+      "parent": ""
+    },
+    {
+      "id": "W01",
+      "category": "Employment",
+      "title": "Parrami Finance — Credit Analyst Intern",
+      "date": "2026-04 to 2026-07",
+      "status": "User-confirmed role",
+      "resume_wording": "Analyzed borrower financial statements, credit reports and cash flows; built standardized Excel models to support credit assessments.",
+      "metrics": "Résumé claims: 100+ borrowers; $5M+ portfolios; 200+ client records; ~25% faster assessments; research on 50+ businesses",
+      "sources": "S03 S02 S04",
+      "confirmation_needed": "Paid role and end date directly user-confirmed. Employer letter not located. Confirm currency conversion for $5M and measurement basis for all counts and improvement percentages before using metrics.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "W02",
+      "category": "Employment",
+      "title": "FIU Mastery Math Lab — Learning Assistant",
+      "date": "2026-01 to 2026-04",
+      "status": "User-confirmed role",
+      "resume_wording": "Tutored students in mathematics at FIU’s Mastery Math Lab, explaining concepts and guiding students through problem-solving.",
+      "metrics": "Older résumé: 50+ Calculus I students weekly; 15% homework-completion improvement",
+      "sources": "S03 S02 S37 S41",
+      "confirmation_needed": "Official title Learning Assistant (LA), dates and paid hourly status user-confirmed. 50+/15% unsupported by student logs or evaluation; omit until documented. Profile also mentions Pre-Trigonometry and College Algebra.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "W03",
+      "category": "Employment",
+      "title": "My Style — Software Development Intern",
+      "date": "Newer résumé: 2024-06 to 2025-07; dates unresolved",
+      "status": "User-confirmed title",
+      "resume_wording": "Contributed to Java/Python web applications, REST API integrations, testing and Git-based collaboration as a Software Development Intern at My Style.",
+      "metrics": "Newer claims: 50+ PRs; reliability +20%; integration errors −15%; code quality +20%",
+      "sources": "S47 S04 S05 S06",
+      "confirmation_needed": "User clarified “swe” in this chat. Older résumé says Data Analyst, June–July 2024, with different duties. SWE title takes priority; dates and all metrics remain unresolved. Older data-analyst claims held separately in conflict log.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "W04",
+      "category": "Employment offers",
+      "title": "FIU College of Business — Student Assistant offer",
+      "date": "Offered 2026-11-17; onboarding pending 2026-11-19",
+      "status": "Verified offer",
+      "resume_wording": "Selected for a Student Assistant position with Dr. Suchismita Mishra at FIU’s College of Business; onboarding in progress.",
+      "metrics": "Offer received; onboarding and knowledge-transfer coordination",
+      "sources": "S21",
+      "confirmation_needed": "Do not list as already-started employment or claim completed research output. Exact payroll title, pay, start date and duties need final appointment record.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T01",
+      "category": "Technical projects",
+      "title": "PharmaBeacon — drug-shortage prediction",
+      "date": "2026-10 onward; paused as of November",
+      "status": "Artifact-supported project",
+      "resume_wording": "Co-developed a drug-shortage forecasting prototype and explainable risk dashboard using historical FDA data.",
+      "metrics": "~12-year data history; repository report lists 3,657 drugs and 1,496,562 drug-weeks; résumé says ~3,000 ranked medications",
+      "sources": "S03 S04 S27 S28",
+      "confirmation_needed": "Team attribution. 61.3% recall / 90.03% accuracy appear in older résumé/chat claims; current evaluation uses different windows/thresholds and does not establish those as a general result. Keep model metrics out of unqualified bullets until linked to an exact frozen run. Prototype, not clinical validation.",
+      "resume_use": "Yes",
+      "parent": "A03"
+    },
+    {
+      "id": "T02",
+      "category": "Customer discovery",
+      "title": "PharmaBeacon stakeholder interviews",
+      "date": "October 2026; Hultgren 2026-10-27",
+      "status": "User-reported",
+      "resume_wording": "Conducted stakeholder interviews with a hospital inpatient pharmacy manager and a medication-safety expert to refine PharmaBeacon’s alerting and product requirements.",
+      "metrics": "At least two completed interviews documented in user notes; one conditional watchlist-testing expression of interest",
+      "sources": "S29",
+      "confirmation_needed": "Do not claim a signed pilot, hospital deployment, paying customer or partnership. Alex Yampolsky appears in prior assistant summary but was not corroborated as completed.",
+      "resume_use": "Yes",
+      "parent": "T01"
+    },
+    {
+      "id": "T03",
+      "category": "Technical projects",
+      "title": "BackFill — event-driven quant research",
+      "date": "October 2026",
+      "status": "Public team artifact",
+      "resume_wording": "Co-developed BackFill, reconstructing archived FDA shortage evidence and mapping available suppliers to listed companies for reproducible trading research.",
+      "metrics": "Public team report: 18,218 snapshots; 1,042 drugs; 2014–2026; 11 strategy variants",
+      "sources": "S23 S24",
+      "confirmation_needed": "Team-reported scale; not independently rerun. Individual component ownership not established; Devpost attributes Solana proof/Webull/Vultr/Snowflake work specifically to Satyabrata. Do not appropriate it. No live trading returns claimed.",
+      "resume_use": "Yes",
+      "parent": "A02"
+    },
+    {
+      "id": "T04",
+      "category": "Technical projects",
+      "title": "SEC 8-K listing-deficiency strategy research",
+      "date": "October 2026",
+      "status": "Résumé claim",
+      "resume_wording": "Investigated stock-price responses to SEC Form 8-K listing-deficiency disclosures using historical event studies and backtesting.",
+      "metrics": "Claims: 1,223 signals, 585 companies; 45-signal audited sample; 73.3% win rate, Sharpe 1.17, cumulative return 35.9%",
+      "sources": "S04 S24",
+      "confirmation_needed": "Distinct research line from FDA-based BackFill. Do not imply this strategy won Solana award. No verified frozen result file/time period identified; all performance metrics held pending methodology, costs, sample and out-of-sample validation.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T05",
+      "category": "Technical projects",
+      "title": "Search Engine from Scratch",
+      "date": "September 2026 onward",
+      "status": "Artifact-supported project",
+      "resume_wording": "Built a Python search engine with a custom inverted index, BM25 ranking, FastAPI API and browser interface; documented local synthetic-corpus benchmarks.",
+      "metrics": "Stored 10,000-document machine learning query benchmark: 538.919 ms → 17.138 ms (~31×; ~96.8% reduction)",
+      "sources": "S30 S04",
+      "confirmation_needed": "Benchmark is one query on synthetic local data, not production average or independent test. README reports later ~15–16 ms total queries. Spell correction/hybrid sparse-dense features appear in résumé; implementation not audited here.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T06",
+      "category": "Technical projects / entrepreneurship",
+      "title": "Te Vārta — founder",
+      "date": "2026-01 onward",
+      "status": "User-confirmed project",
+      "resume_wording": "Founded Te Vārta, an independent investment-research project developing personalized, source-backed briefs from market news and filings.",
+      "metrics": "Two-person team reported; three product workflows; target beta 20–25 users",
+      "sources": "S03 S02 S04 S27",
+      "confirmation_needed": "Independent, unregistered and self-funded. Beta count is a target, not achieved traction; no customers, revenue, external funding, completed broker integration or production availability verified.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T07",
+      "category": "Technical projects / entrepreneurship",
+      "title": "FeedBack",
+      "date": "September 2026 onward",
+      "status": "Artifact-supported project",
+      "resume_wording": "Co-developed a hospitality voice-feedback prototype using ElevenLabs to turn guest conversations into structured feedback and recommended actions.",
+      "metrics": "Team includes Aaryan; mock hospitality data; no commercial outcome metric",
+      "sources": "S31 S32 S27",
+      "confirmation_needed": "Owner confirmed FeedBack is the résumé title. The linked README has a different heading; keep it as a technical reference. Under-24-hour claim only in assistant draft. No award found.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T08",
+      "category": "Technical projects",
+      "title": "GridLock",
+      "date": "ShellHacks, September 2026",
+      "status": "Public team artifact",
+      "resume_wording": "Co-developed GridLock, a geospatial planning prototype comparing utility transmission projects and ranking coordination opportunities with source evidence.",
+      "metrics": "Team-reported: 2,639 candidate pairs, four ranked zones, recovered six sponsor overlaps",
+      "sources": "S33 S34 S27",
+      "confirmation_needed": "Public submission supports team participation; metrics are team-reported and not rerun. No prize established. Do not infer utility adoption or savings.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T09",
+      "category": "Technical projects",
+      "title": "Credit Risk Prediction Model",
+      "date": "July 2026",
+      "status": "Résumé claim",
+      "resume_wording": "Developed a Streamlit credit-risk prototype comparing XGBoost with logistic regression and presenting applicant-level SHAP explanations.",
+      "metrics": "Claimed 50,000 borrower records; monotonic risk constraints",
+      "sources": "S37",
+      "confirmation_needed": "Underlying model/dataset not inspected; whether records are synthetic or public is unconfirmed. No measured accuracy or lender deployment verified. Separate from synthetic SQL/SAS project T14.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T10",
+      "category": "Technical projects",
+      "title": "Claude Sentinel",
+      "date": "June/July 2026",
+      "status": "Attribution unresolved",
+      "resume_wording": "Contributed to a Python notification tool for Claude usage-window resets using QStash, Telegram and macOS scheduling.",
+      "metrics": "Project appears in both Aaditya and Aaryan résumés; repository under Aaryan1524",
+      "sources": "S37",
+      "confirmation_needed": "Confirm individual contribution before using. Avoid “guaranteed delivery when offline”; cloud delivery and local fallback have different dependencies. No reliability measurement verified.",
+      "resume_use": "Hold",
+      "parent": ""
+    },
+    {
+      "id": "T11",
+      "category": "Research",
+      "title": "Cybersecurity disclosure completeness / BERT",
+      "date": "Active discussions in September–October 2026",
+      "status": "User-reported research",
+      "resume_wording": "Developed a research proposal on NLP-based evaluation of cybersecurity-disclosure completeness in SEC 10-K Item 1C filings, with faculty feedback from Abdul Rehman Gilal.",
+      "metrics": "Research question and meeting notes; no verified trained-model result",
+      "sources": "S35 S27",
+      "confirmation_needed": "Proposal/exploratory work. Formal RA appointment, dataset size, fine-tuning completion, accuracy, publication and peer review not established. Do not merge with Mishra’s separate offer.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T12",
+      "category": "Research",
+      "title": "IB Mathematics Extended Essay — Option Greeks",
+      "date": "Final document dated May 2025",
+      "status": "Artifact-supported paper",
+      "resume_wording": "Authored a mathematics extended essay deriving and applying Delta, Gamma, Theta, Vega and Rho within the Black–Scholes–Merton framework.",
+      "metrics": "24-page local final; résumé reports 3,400+ words and EE grade B",
+      "sources": "S36 S05",
+      "confirmation_needed": "School research essay, not peer-reviewed publication. Exact word count and final IB grade not independently verified. Start dates conflict (June 2023 vs June 2024); use completion May 2025.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T13",
+      "category": "Technical projects",
+      "title": "HelpDesk classroom application",
+      "date": "Fall 2026",
+      "status": "Artifact-supported project",
+      "resume_wording": "Developed a Flask/SQLite support-ticket application with user, technician and manager workflows, ticket claiming, conversations and reporting.",
+      "metrics": "Three roles; persistent SQLite; deterministic priority rule and documented test suite",
+      "sources": "S38",
+      "confirmation_needed": "Repository existence and documented implementation only; tests not rerun, grade and individual unaided authorship not established. No deployment claimed.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T14",
+      "category": "Technical projects",
+      "title": "Borrower Credit Risk Analysis — SQL/SAS practice",
+      "date": "By November 2026; exact build dates unconfirmed",
+      "status": "Artifact-supported practice",
+      "resume_wording": "Built an independent SQL/SAS lending-analysis practice project with joins, affordability features, risk segments and portfolio reports on synthetic data.",
+      "metrics": "240 synthetic borrowers, 300 loans, 3,600 monthly observations; 290 active loans at simulated reporting date",
+      "sources": "S39",
+      "confirmation_needed": "Explicitly not Parrami work, company data, internship output or company policy. Simulated September 30, 2025 reporting date is not project creation date.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T15",
+      "category": "Academic / technical work",
+      "title": "SAS research-assistant assessment",
+      "date": "Submitted 2026-10-31",
+      "status": "Verified submission",
+      "resume_wording": "Completed and submitted a five-part SAS assessment as part of FIU finance research hiring, progressing to a faculty interview and subsequent job offer.",
+      "metrics": "Five tasks reported; submission and interview correspondence confirmed",
+      "sources": "S22 S21 S20",
+      "confirmation_needed": "Completion not a certification or perfect-score claim. Subsequent email says SQL test was below expectations; no claim of passing SQL assessment.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "T16",
+      "category": "Technical projects",
+      "title": "Personal portfolio website",
+      "date": "By October 2026",
+      "status": "Artifact-supported project",
+      "resume_wording": "Created a React/TypeScript personal portfolio presenting projects, research and experience with documented content sources.",
+      "metrics": "Project source, case-study data and résumé assets present",
+      "sources": "S27",
+      "confirmation_needed": "Do not claim traffic, live uptime or accessibility-test results; deployment not verified. Includes AI-generated implementation; this inventory does not assess unaided coding proficiency.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "L01",
+      "category": "Athletics / leadership",
+      "title": "IBSO / SGFI national-level soccer captain",
+      "date": "December 2024",
+      "status": "Résumé claim",
+      "resume_wording": "Captained an IBSO soccer team at an SGFI national-level tournament in 2024.",
+      "metrics": "Older résumé squad size 15; newer 18; national participation claimed",
+      "sources": "S05 S06",
+      "confirmation_needed": "Need roster/certificate, tournament name, age division, location and results. Sources disagree on Mumbai vs Andaman & Nicobar location; omit location and squad size. No medal or national-team representation inferred.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "L02",
+      "category": "Leadership / service",
+      "title": "SOBEWFF Grand Tasting Village — Green Team Lead",
+      "date": "February 2026",
+      "status": "Corroborated role",
+      "resume_wording": "Served as a Green Team Lead for SOBEWFF’s Grand Tasting Village, supporting volunteer coordination and sustainability activities.",
+      "metrics": "February 18 training assignment; February 20–22 shift notices",
+      "sources": "S40 S41",
+      "confirmation_needed": "Lead assignment corroborated; completed attendance, hours, team size and waste-diversion results need attendance/impact records. Do not count planned 2027 work as completed.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "L03",
+      "category": "Campus involvement",
+      "title": "Sigma Alpha Mu — Delta Zeta",
+      "date": "Membership agreement 2026-04-12",
+      "status": "Verified association",
+      "resume_wording": "Member of Sigma Alpha Mu’s Delta Zeta chapter at FIU.",
+      "metrics": "Named membership agreement and risk acknowledgement",
+      "sources": "S42 S41",
+      "confirmation_needed": "No officer title, elected role, fundraising total or specific service achievement established.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "L04",
+      "category": "Service",
+      "title": "Free Mega Medical Camp — Ashwin Malik Meshram Foundation",
+      "date": "July 2024",
+      "status": "Résumé claim",
+      "resume_wording": "Volunteered at a community medical camp, supporting coordination with doctors and medical technicians.",
+      "metrics": "Six hours reported",
+      "sources": "S06",
+      "confirmation_needed": "Need certificate or organizer confirmation, exact date and duties; no patients-served figure established.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "L05",
+      "category": "Service",
+      "title": "IB CAS rural community project, Kutch",
+      "date": "December 2023",
+      "status": "Résumé claim",
+      "resume_wording": "Participated in an IB CAS rural-service project in Kutch, supporting tree planting and community activities.",
+      "metrics": "Multi-day participation reported",
+      "sources": "S06",
+      "confirmation_needed": "Need CAS reflection/log and exact activity scope. No count of trees, people served or service hours verified.",
+      "resume_use": "Yes",
+      "parent": ""
+    },
+    {
+      "id": "L06",
+      "category": "Athletics",
+      "title": "AITA competitive tennis rankings",
+      "date": "2020–2021 documented snapshots",
+      "status": "Identity-confirmed public record",
+      "resume_wording": "Competed in AITA junior tennis in Maharashtra, appearing in national Boys U14 and U16 ranking lists.",
+      "metrics": "Sept 6, 2021 U14 rank 1026 / 6 points; Sept 13, 2021 U16 rank 1500 / 2 points; March 2020 U16 rank 1474 / 2 points appears in separate official table",
+      "sources": "S43 S44 S47",
+      "confirmation_needed": "User confirmed these records are theirs. Search-indexed official records; not career-best rankings or tournament finishes. 2020 source: https://www.aitatennis.com/oldwebsite/sites/default/files/BU-16_70.pdf. Avoid claiming a national medal.",
+      "resume_use": "Optional",
+      "parent": ""
+    },
+    {
+      "id": "O01",
+      "category": "Participation milestones",
+      "title": "Devpost achievement badges",
+      "date": "August–October 2026",
+      "status": "Public profile snapshot",
+      "resume_wording": "Earned Devpost’s Hackathon Winner Level 1 badge following a hackathon prize.",
+      "metrics": "Winner badge Oct 8; Generalist and X Hackathons Level 2 Oct 6; First in-person hackathon Sept 29; Welcome Aug 27",
+      "sources": "S45",
+      "confirmation_needed": "Five platform badges are not five competition awards. Profile snapshot shows two projects/four hackathons; exact participation count not independently reconciled. Badge is derivative of A02 and should not inflate award totals.",
+      "resume_use": "Personal bank",
+      "parent": "A02"
+    }
+  ],
+  "sources": {
+    "S01": {
+      "title": "FIU unofficial academic record, printed November 17, 2026",
+      "location": "/Users/aadityagajula/Desktop/SSR_TSRPT.pdf",
+      "note": "University-generated record: 3.110 cumulative GPA, 60 earned credits including 38 test credits; Fall 2025 term GPA 3.570; current major plan and course results. Not an official sealed transcript."
+    },
+    "S02": {
+      "title": "Current disclosure CV, November 2026",
+      "location": "/Users/aadityagajula/Desktop/Aaditya_Gajula_CV.pdf",
+      "note": "Self-authored CV; dates and responsibilities corroborated by direct user confirmations in S03. Does not independently verify impact metrics."
+    },
+    "S03": {
+      "title": "Prepare Compliant CV — direct user confirmations",
+      "location": "chatgpt-conversation://6afe076e-4d34-83ea-9447-fe14db107e4d",
+      "note": "Read recent turns and three older pages. User confirmed August 2025 FIU start, December 2028 expected graduation, 3.11 GPA, paid LA January–April 2026, paid Parrami internship, Te Vārta January 2026 start, PharmaBeacon October 2026 start and paused status; no qualifying publications or research funding. Instructions to omit items applied to that specific disclosure CV, not to this master inventory."
+    },
+    "S04": {
+      "title": "Current general résumé",
+      "location": "/Users/aadityagajula/Desktop/ResumeAaditya.pdf",
+      "note": "Self-reported employment and project metrics. Older graduation dates are superseded by S03; technical metrics need their underlying evaluation context."
+    },
+    "S05": {
+      "title": "2025 résumé",
+      "location": "/Users/aadityagajula/Desktop/Organized Files/Resumes/Aaditya - 2025/Aaditya Gajula Resume 2025.docx",
+      "note": "Older self-report: IB 30/45 and subject grades, soccer captaincy, 15-player squad, My Style Data Analyst June–July 2024. Contains conflicts with newer versions."
+    },
+    "S06": {
+      "title": "2026 résumé with athletics and service",
+      "location": "/Users/aadityagajula/Desktop/Organized Files/Resumes/Aaditya - 2026/Aaditya Gajula Resume 2026.pdf",
+      "note": "Self-report: soccer captaincy, 18-player squad, July 2024 medical camp (6 hours), December 2023 Kutch service. Does not independently prove attendance or hours."
+    },
+    "S07": {
+      "title": "FIU Academic Excellence Scholarship certificate",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Admissions & FIU/Aaditya_SC_FIU.pdf",
+      "note": "Certificate text names FIU Global First Year Academic Excellence Scholarship. PDF form values: recipient Aaditya Gajula; amount 5000; award and acceptance deadline 19/08/2025. One-time program waiver, not annual cash."
+    },
+    "S08": {
+      "title": "Scholarship award correspondence, August 19, 2025",
+      "location": "https://mail.google.com/mail/u/0/#all/198c0c0d0225b751",
+      "note": "Shorelight sent scholarship certificate; later messages acknowledge signed return and application-record update request. Supports award, not proof of final disbursement."
+    },
+    "S09": {
+      "title": "SAT score report, August 24, 2024",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Academic Records/digital_sat_k12_student_weekend_139987475_315e559d-3417-48a6-9768-1137d8299087.pdf",
+      "note": "1400 total; Reading/Writing 620, Math 780. Report states 93rd overall and 98th Math percentile relative to its stated comparison cohort."
+    },
+    "S10": {
+      "title": "Cambridge June 2023 candidate results",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Academic Records/AADITYA GAJULA_IGCSE RESULTS.pdf",
+      "note": "Provisional results: ICE Distinction, Physics A*, Business Studies A*, five As, Biology B; displayed numbers are percentage uniform marks, not raw percentages."
+    },
+    "S11": {
+      "title": "Cambridge March 2023 Mathematics statement",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Photos & Scans/IMG_2252.jpg",
+      "note": "Visually inspected: syllabus 0580 Mathematics, A, percentage uniform mark 88. Separate from June Additional Mathematics."
+    },
+    "S12": {
+      "title": "IELTS Academic Test Report Form",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Other Documents/index.pdf",
+      "note": "Test August 18, 2024; report August 20. Overall 7.5 and CEFR C1; Listening/Reading 7.5, Writing/Speaking 7.0. Historical result; not a claim of current validity."
+    },
+    "S13": {
+      "title": "FIU admission decision, April 1, 2025",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Admissions & FIU/Decision Letter (Admit or Deny)-6575860 (1).pdf",
+      "note": "Admission for Spring 2026, Computer Science BS. Subsequent Global First Year pathway and actual Fall 2025 enrollment are distinct from this initial admission term."
+    },
+    "S14": {
+      "title": "FIU Global First Year conditional offer, May 12, 2025",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Admissions & FIU/Conditional Offer Letter - FIU Only_COL__Aaditya--Gajula_2025-05-12.pdf",
+      "note": "Conditional G1Y two-semester admission; anticipated Computer Science BS. Not a second university admission."
+    },
+    "S15": {
+      "title": "UCF admission letter, May 13, 2025",
+      "location": "/Users/aadityagajula/Desktop/FIU/uni/Admissions & FIU/Letter (2).pdf",
+      "note": "Fall 2025 admission, intended Computer Science BS; subject to stated final-document and senior-year conditions. No attendance established."
+    },
+    "S16": {
+      "title": "UCAS summary of four offers, May 2025",
+      "location": "https://mail.google.com/mail/u/0/#all/196b13e98d718df7",
+      "note": "Lists Computer Science conditional offers (C) from Liverpool, Queen Mary, Cardiff and Brunel. These are offers, not completed degrees or enrollment."
+    },
+    "S17": {
+      "title": "Queen Mary conditional offer and acceptance",
+      "location": "https://mail.google.com/mail/u/0/#all/197176d07ea65c7e",
+      "note": "UCAS May 28, 2025 confirms acceptance of conditional Queen Mary Computer Science offer; original offer message 1968ce358bda4375 also read."
+    },
+    "S18": {
+      "title": "Break Through Tech acceptance, November 16, 2026",
+      "location": "https://mail.google.com/mail/u/0/#all/1a1e5ceb706a1261",
+      "note": "Original acceptance into AI Program Winter/Spring 2027. No completed certificate, stipend or employment is established."
+    },
+    "S19": {
+      "title": "Acceptance confirmed — enrollment evidence",
+      "location": "chatgpt-conversation://6afb5ce4-ad10-83ea-bed3-0c97238b9a47",
+      "note": "User pasted original offer and enrollment-confirmation survey. Cohort dates and stipend discussion by prior assistant are secondary; no stipend amount confirmed."
+    },
+    "S20": {
+      "title": "Recent Accomplishments Summary",
+      "location": "chatgpt-conversation://6af7c8e7-a788-83ea-a105-2656614bbfb1",
+      "note": "Direct user statement: accepted into ATOM Pink Tank 2026–2027. Prior assistant lists nationals qualification and 75/75 Linear Algebra; those are weaker leads, not verified facts."
+    },
+    "S21": {
+      "title": "FIU Student Assistant offer, November 17, 2026",
+      "location": "https://mail.google.com/mail/u/0/#all/1a1ea2441c9ed219",
+      "note": "Dr. Suchismita Mishra explicitly offers the job and directs onboarding with Jessica Ugaz. November 19 knowledge-transfer message confirms preparation; start date and completed appointment not established."
+    },
+    "S22": {
+      "title": "SAS task submission, October 31, 2026",
+      "location": "https://mail.google.com/mail/u/0/#all/1a193a11fc4dda64",
+      "note": "Submission of completed assessment and code/output attachments; invitation for interview follows. Does not establish a perfect score or SQL proficiency."
+    },
+    "S23": {
+      "title": "BackFill competition submission and award",
+      "location": "https://devpost.com/software/backfill-1kpq2o",
+      "note": "Public result explicitly lists Winner — MLH: Best Use of Solana [Ledger Nano S Plus], Gator Quant Hacks. Names Aaditya, Aaryan, Satyabrata Das and Atina Ruvinova. Team technical descriptions are self-authored, while prize label is platform evidence."
+    },
+    "S24": {
+      "title": "BackFill repository",
+      "location": "https://github.com/AIForge10/BackFill",
+      "note": "Public project artifact; local counterpart Desktop/GatorQuantHack/Gator_Hacks/README.md also read. Documentation supports research pipeline existence, not live returns or individual ownership of every component."
+    },
+    "S25": {
+      "title": "Resume achievements update",
+      "location": "chatgpt-conversation://6ad044a9-2d00-83e9-a530-d4e407c79c23",
+      "note": "Direct user statement: AIS tech challenge team came second. Stronger than vague “won” language in generated posts."
+    },
+    "S26": {
+      "title": "LinkedIn Win Description",
+      "location": "chatgpt-conversation://6ad04377-f7bc-83e9-9873-34277fcd4077",
+      "note": "User identifies PharmaBeacon teammates Sebastian Luscher and Lenish Pandey."
+    },
+    "S27": {
+      "title": "Portfolio content sources and project data",
+      "location": "/Users/aadityagajula/Desktop/personal portfolio/Personal-Portfolio/docs/CONTENT-SOURCES.md",
+      "note": "Explicitly based on owner-supplied brief; no independent validation of award rank, adoption or employment. Project data files and experience/research files read."
+    },
+    "S28": {
+      "title": "PharmaBeacon model evaluation report",
+      "location": "/Users/aadityagajula/Desktop/AIS CHALLENGE/shortage-risk-dashboard/reports/model_results.md",
+      "note": "Repository-reported panel: 1,496,562 drug-weeks, 3,657 drugs, July 2014–September 2026. Multiple models, windows and threshold rules; 90-day summaries differ from résumé claims. No experiments rerun."
+    },
+    "S29": {
+      "title": "PharmaBeacon interview notes",
+      "location": "chatgpt-conversation://6ae25cdd-a2d0-83ea-8cf2-775c594e0cab",
+      "note": "Direct user account of two completed stakeholder conversations: inpatient pharmacy manager and Dr. Kyle Hultgren (Oct 27). Watchlist interest conditional on compliance; not a signed pilot or paying customer."
+    },
+    "S30": {
+      "title": "Search engine README and benchmarks",
+      "location": "/Users/aadityagajula/Desktop/search-engine-from-scratch/README.md",
+      "note": "Documents inverted index, BM25, API/UI, tests and local synthetic benchmarks: machine learning query 538.919 ms → 17.138 ms on 10,000 docs. Stored report, not independently rerun."
+    },
+    "S31": {
+      "title": "FeedBack README",
+      "location": "/Users/aadityagajula/Desktop/FeedBack/FeedBack/README.md",
+      "note": "Prototype uses ElevenLabs and structured transcript processing; explicitly mock hotel/guest/history data. Do not infer paid customers or deployed hotel integration."
+    },
+    "S32": {
+      "title": "Resume writeup — FeedBack",
+      "location": "chatgpt-conversation://6ab1c63b-cecc-83ea-a13b-16929ca412bb",
+      "note": "User directly states they built FeedBack at hackathon. Under-24-hour claim appears in assistant draft; duration remains unverified."
+    },
+    "S33": {
+      "title": "GridLock Devpost submission",
+      "location": "https://devpost.com/software/gridlock-py2iwe",
+      "note": "Search-indexed public submission names Aaditya and Aaryan; ShellHacks 2026. Team reports 2,639 pairs, four zones and six sponsor overlaps; metrics not rerun. Direct page was bot-blocked."
+    },
+    "S34": {
+      "title": "GridLock repository documentation",
+      "location": "/Users/aadityagajula/Desktop/GridLock/GridLock/README.md",
+      "note": "Local project exists; related public repo https://github.com/gajulaaaditya/GridLock. Portfolio documents geospatial pipeline, FastAPI and Next.js."
+    },
+    "S35": {
+      "title": "BERT RESEARCH",
+      "location": "chatgpt-conversation://6aa05208-7598-83ea-9930-a71933ad7b8b",
+      "note": "User pasted meeting notes with Abdul Rehman and states focus on Item 1C disclosure completeness. Supports research discussions and project definition, not completed model, formal appointment or publication."
+    },
+    "S36": {
+      "title": "Option Greeks extended essay",
+      "location": "/Users/aadityagajula/Desktop/IB/ee/Drafts & Final/Math EE.pdf",
+      "note": "24-page document dated May 2025; title The Derivation and Applications of the Option Greeks, research question How do the Greeks function in Option Trading? Draft with user name also inspected. 3,400+ words is résumé claim."
+    },
+    "S37": {
+      "title": "Credit-risk portfolio résumé",
+      "location": "/Users/aadityagajula/Desktop/Organized Files/Resumes/Aaditya - 2026/Resume_Aaditya_Gajula_Data_Science_AI_2026-08.pdf",
+      "note": "Self-reported Streamlit/XGBoost/SHAP model on 50,000 borrower records and Claude Sentinel. Link to Sentinel is in Aaryan1524 account, and Aaryan résumé claims it too: individual contribution needs confirmation."
+    },
+    "S38": {
+      "title": "HelpDesk project README",
+      "location": "/Users/aadityagajula/Desktop/HelpDesk/README.md",
+      "note": "COP 2047 classroom Flask/SQLite ticket app. Documents role-specific workflows, persistent records and tests; says not deployed. Does not establish unaided authorship or grade."
+    },
+    "S39": {
+      "title": "Borrower credit-risk SQL/SAS project",
+      "location": "/Users/aadityagajula/Desktop/SQL/borrower-credit-risk/Parrami--Borrower-credit-risk/README.md",
+      "note": "Explicitly independent synthetic practice, not Parrami work. 240 borrowers, 300 loans, 3,600 observations. Do not use as employer-impact evidence."
+    },
+    "S40": {
+      "title": "SOBEWFF Green Team Lead training assignment",
+      "location": "https://mail.google.com/mail/u/0/#all/19c43b2d20465d72",
+      "note": "Coordinator addresses GTV Green Team Leads, February 18, 2026 training and assigned shifts. Shift notices corroborate February 20–22 role; attendance hours and team size not verified."
+    },
+    "S41": {
+      "title": "Aaditya LinkedIn profile",
+      "location": "https://www.linkedin.com/in/aaditya-gajula-b56392386",
+      "note": "Self-authored public profile lists SOBEWFF Green Team Lead, Sigma Alpha Mu and LA subjects. Unrelated “Explore more posts” material excluded."
+    },
+    "S42": {
+      "title": "Sigma Alpha Mu membership agreement",
+      "location": "/Users/aadityagajula/Desktop/FIU/Documents/a38Pq00000J2lpWIAR.pdf",
+      "note": "Agreement names Aaditya and FIU Delta Zeta chapter, dated April 12, 2026. Separate signed risk acknowledgement corroborates association. No elected office established."
+    },
+    "S43": {
+      "title": "AITA September 6, 2021 Boys U14 ranking",
+      "location": "https://aitatennis.com/management/upload/ranking/2021-09-06_BU-14.pdf",
+      "note": "Search-indexed official table: player 433184, Maharashtra, rank 1026, 6 total points. User confirmed identity in this chat. PDF fetch unavailable; historical dated snapshot, not career-best ranking."
+    },
+    "S44": {
+      "title": "AITA September 13, 2021 Boys U16 ranking",
+      "location": "https://aitatennis.com/management/upload/ranking/2021-09-13_BU-16.pdf",
+      "note": "Search-indexed official table: same player, rank 1500, 2 points. User confirmed identity; not a tournament placement."
+    },
+    "S45": {
+      "title": "Devpost achievements profile",
+      "location": "https://devpost.com/gajula-aaditya/achievements",
+      "note": "Search-indexed profile shows five badges, two projects and four hackathons. Counts are a snapshot and not evidence of four awards; full page fetch unavailable."
+    },
+    "S46": {
+      "title": "ShellHacks acceptance, September 8, 2026",
+      "location": "https://mail.google.com/mail/u/0/#all/1a082811e10a1bba",
+      "note": "Acceptance snippet; dates September 25–27, 2026. GridLock public submission separately supports participation."
+    },
+    "S47": {
+      "title": "Current chat confirmations",
+      "location": "Current achievement-inventory chat, November 19, 2026",
+      "note": "User confirmed AITA player 433184 is theirs and clarified My Style role as “swe.” They did not resolve My Style dates or quantitative impact."
+    }
+  },
+  "conflicts": [
+    [
+      "Gator Quant placement",
+      "Prior AI summaries said “1st Place.”",
+      "Use exact MLH Best Use of Solana team prize; no overall first place established.",
+      "S20 S23"
+    ],
+    [
+      "AIS placement and nationals",
+      "Public self-post used vague “won”; user explicitly said second. Nationals appears in assistant summary.",
+      "Use second place as user-reported; hold nationals qualification pending direct evidence.",
+      "S25 S20"
+    ],
+    [
+      "Graduation date / degree",
+      "May 2028, May 2029 and December 2028 appear in drafts; word order of major differs.",
+      "Use latest user-confirmed December 2028 as expected date; confirm exact diploma title against registrar.",
+      "S03 S01 S04"
+    ],
+    [
+      "My Style title, dates and metrics",
+      "2025 résumé: Data Analyst June–July 2024, 10,000+ transactions, inventory +15%, reporting time −30%, engagement +12%; newer: SWE June 2024–July 2025.",
+      "User clarified SWE. Keep one role, not two internships. Dates and all impact metrics need confirmation.",
+      "S05 S06 S47"
+    ],
+    [
+      "PharmaBeacon performance",
+      "Old summaries cite 90.03% accuracy/61.3% recall; inspected report evaluates multiple horizons and policies with materially different results.",
+      "Use prototype/data-engineering description. Any metric requires run ID, population, split, horizon, threshold, precision and event counts.",
+      "S04 S20 S28"
+    ],
+    [
+      "BackFill vs SEC listing strategy",
+      "Résumé bundles FDA shortage and 8-K research under same hackathon.",
+      "Separate research lines, link both to context, attach prize only to BackFill/Solana result. Backtest returns are historical research, not live earnings.",
+      "S04 S23 S24"
+    ],
+    [
+      "Other person’s résumé",
+      "Organized Files/Resumes/Aaditya - 2026/Resume2026.pdf contains Aaryan Gajula’s résumé.",
+      "Excluded CoOrdio/Openbots, Technical Program Assistant, INIT mixed reality, Auburn RFID, Shadow and ClearDebt claims. Shared project contribution must be separately established.",
+      "File contents checked"
+    ],
+    [
+      "Claude Sentinel ownership",
+      "Claimed in both brothers’ résumés; linked repository is Aaryan1524.",
+      "Hold individual-authorship wording until contribution clarified.",
+      "S37"
+    ],
+    [
+      "Soccer details",
+      "15 vs 18 players; Mumbai vs Andaman & Nicobar.",
+      "Retain captain/national tournament self-report; omit disputed squad size and location.",
+      "S05 S06"
+    ],
+    [
+      "Te Vārta traction",
+      "20–25 beta users appear in ambition statements.",
+      "Target only; no achieved user count, revenue, investment or incorporation verified.",
+      "S03 S04 S27"
+    ],
+    [
+      "FIU assistant job status",
+      "Offer now exists, but HR and start were pending.",
+      "“Selected; onboarding in progress,” not active completed employment or research impact.",
+      "S21"
+    ],
+    [
+      "Scholarship type",
+      "Certificate is a program waiver.",
+      "One-time $5,000 award; do not claim $5,000 annually or cash disbursement.",
+      "S07 S08"
+    ],
+    [
+      "IB essay vs publication",
+      "Research paper/author language can imply peer review.",
+      "IB extended essay; user explicitly reported no qualifying published work.",
+      "S03 S36"
+    ],
+    [
+      "Practice dataset vs employer data",
+      "SQL/SAS folder mentions Parrami but README explicitly disclaims affiliation.",
+      "Independent synthetic portfolio exercise; never evidence of internship impact.",
+      "S39"
+    ],
+    [
+      "IGCSE numbers",
+      "Result table displays numeric marks; March and June are different sessions.",
+      "Use PUM, not raw %. Combined nine subjects: 2 A*, 6 A, 1 B; separate ICE distinction from subject count.",
+      "S10 S11"
+    ]
+  ],
+  "excluded_leads": [
+    [
+      "Hall Council election",
+      "Congratulatory September 21 email lists all hall officers; Aaditya is not listed. No election achievement inferred.",
+      "https://mail.google.com/mail/u/0/#all/1a0c559915a8e188"
+    ],
+    [
+      "Extern acceptance",
+      "Original September 6 message invites a free trial with guaranteed enrollment. No completed externship or selective company role established.",
+      "https://mail.google.com/mail/u/0/#all/1a077e25df8a2f90"
+    ],
+    [
+      "Sprinternship 2027",
+      "Application receipt November 17 and information-session emails only. No placement or acceptance established. Local folder contains practice materials.",
+      "https://mail.google.com/mail/u/0/#all/1a1ebd7b2ccfba98"
+    ],
+    [
+      "CAHSI / CRA Scholars",
+      "Application discussed in secondary personal-context chat; acceptance not found.",
+      "chatgpt-conversation://6ac15914-0160-83e9-90db-cf61330441b3"
+    ],
+    [
+      "FIU Embrace Academic Mentor",
+      "Interview/follow-up conversation found, no offer or employment.",
+      "chatgpt-conversation://6aa03fca-7ef8-83ea-8d29-86def0290fde"
+    ],
+    [
+      "Future LA opportunities",
+      "Invitations/discussions are not proof of another completed LA appointment.",
+      "chatgpt-conversation://6ac15914-0160-83e9-90db-cf61330441b3"
+    ],
+    [
+      "Future fellowships and certificates",
+      "No earned Cornell certificate, BTT stipend, completed AI fellowship or paid BTT internship established.",
+      "S18 S19"
+    ],
+    [
+      "Scholarship advertisements",
+      "Queen Mary £3,000 eligibility promotion and Boston University scholarship solicitations are not personal awards.",
+      "Gmail search results"
+    ],
+    [
+      "AP Computer Science A",
+      "Official July 13, 2024 report shows score 2. Archive as a test attempt; not an AP award, passing-score achievement or college credit.",
+      "/Users/aadityagajula/Desktop/file/School/Exams, Schedules & Results/Score Report.pdf"
+    ],
+    [
+      "Other institutions / events",
+      "FSU and UF letters are declines. Jane Street/NVIDIA/TreeHacks interest, job applications and Burton D. Morgan discussion are not acceptances or awards.",
+      "Admission letters and relevant chat discovery"
+    ],
+    [
+      "No supporting record located",
+      "Dean’s List, published/peer-reviewed papers, grants, patents, national soccer medal, customer revenue, hospital deployment and elected fraternity office not established. Absence from this search is not proof they do not exist.",
+      "Search scope below"
+    ]
+  ]
+}

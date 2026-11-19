@@ -1,0 +1,117 @@
+{
+  "experience": {
+    "W02": {
+      "title": "FIU Mastery Math Lab",
+      "location": "Miami, FL",
+      "role": "Learning Assistant",
+      "date": "Jan 2026 -- Apr 2026",
+      "ended": "2026-04",
+      "topics": [
+        "communication"
+      ],
+      "bullets": [
+        "Tutored FIU students in mathematics at the Mastery Math Lab.",
+        "Explained mathematical concepts and modeled approaches to course problems.",
+        "Guided students through practice problems and worked through each step with them."
+      ]
+    },
+    "L02": {
+      "title": "South Beach Wine & Food Festival",
+      "location": "",
+      "role": "Green Team Lead",
+      "date": "Feb 2026",
+      "ended": "2026-02",
+      "topics": [
+        "event operations",
+        "sustainability",
+        "volunteer coordination"
+      ],
+      "bullets": [
+        "Selected as a Green Team Lead for the festival's Grand Tasting Village.",
+        "Assigned to support volunteer coordination and sustainability activities during the event.",
+        "Received a lead-team training assignment and shift notices for the **February 20–22** event window."
+      ]
+    }
+  },
+  "projects": {
+    "T03": {
+      "title": "BackFill",
+      "stack": "Quantitative Finance, Event Studies",
+      "date": "Oct 2026",
+      "url": "https://github.com/AIForge10/BackFill",
+      "related": [
+        "A02"
+      ],
+      "topics": [
+        "finance",
+        "backtesting"
+      ],
+      "bullets": [
+        "Co-developed an FDA-shortage event research prototype using a team dataset of **18,218 archived snapshots**.",
+        "Evaluated **11 historical strategy variants** as a team and earned the MLH Best Use of Solana team award at Gator Quant Hacks."
+      ]
+    },
+    "T07": {
+      "title": "FeedBack",
+      "stack": "ElevenLabs, Conversational AI",
+      "date": "Sep 2026",
+      "topics": [
+        "applied AI",
+        "guest feedback",
+        "AI evaluation",
+        "human review"
+      ],
+      "bullets": [
+        "Co-developed FeedBack on a **2-person hackathon team**, using ElevenLabs to run adaptive post-checkout interviews and turn simulated guest conversations into structured feedback, issue categories, and recommended follow-up actions.",
+        "Checked AI-generated findings against source transcripts, required evidence from **at least 2 conversations** before reporting a recurring pattern, and routed recommended actions to managers for review and approval."
+      ]
+    },
+    "T14": {
+      "title": "Borrower Credit Risk Analysis",
+      "stack": "SQL, SAS, SQLite",
+      "date": "2026",
+      "topics": [
+        "SQL",
+        "SAS",
+        "data validation",
+        "reporting",
+        "finance"
+      ],
+      "bullets": [
+        "Joined and validated synthetic lending data for **240 borrowers, 300 loans, and 3,600 monthly observations** using SQL.",
+        "Calculated affordability and segmented **290 active loans** by risk to report portfolio exposure and delinquency."
+      ]
+    },
+    "T13": {
+      "title": "HelpDesk",
+      "stack": "Python, Flask, SQLite",
+      "date": "Fall 2026",
+      "topics": [
+        "Python",
+        "SQL",
+        "reporting",
+        "web development",
+        "testing"
+      ],
+      "bullets": [
+        "Developed a classroom ticket app with workflows for **3 roles** covering users, technicians, and managers.",
+        "Built manager reports for ticket volume and resolution times with a **6-ticket test fixture** for reporting checks."
+      ]
+    },
+    "T08": {
+      "title": "GridLock",
+      "stack": "Geospatial Analysis, FastAPI, Next.js",
+      "date": "Sep 2026",
+      "url": "https://github.com/gajulaaaditya/GridLock",
+      "topics": [
+        "geospatial",
+        "web development",
+        "APIs"
+      ],
+      "bullets": [
+        "Co-developed a geospatial planning prototype that compared **2,639 candidate transmission-project pairs** in the team submission.",
+        "The team prototype ranked **4 coordination zones** and linked opportunities to evidence for review."
+      ]
+    }
+  }
+}
